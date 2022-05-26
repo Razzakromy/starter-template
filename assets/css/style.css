@@ -1,4 +1,18 @@
 .box{
-    height: 200px;
+    width: 200px;
+    height: 100px;
     background-color: rebeccapurple;
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(241, 241, 241);
+}
+
+.img_radius img{
+    width: 25%;
+}
+
+.mh{
+    min-height: 100px;
 }
