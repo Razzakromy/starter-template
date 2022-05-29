@@ -8,6 +8,15 @@
     height: 150px;
     background-color: rgb(241, 241, 241);
 }
+.box3{
+    height: 150px;
+    background-color: rebeccapurple;
+}
+
+.box4{
+    width: 10%;
+    background-color: rebeccapurple;
+}
 
 .img_radius img{
     width: 25%;
