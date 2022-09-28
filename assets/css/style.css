@@ -5,19 +5,19 @@
 /* Font Import */
 @font-face {
     font-family: Montserrat;
-    src: url('./../fonts/Montserrat-Medium.ttf') format('ttf');
-    src: url('./../fonts/Montserrat-SemiBold.ttf') format('ttf');
+    src: url('./../fonts/Montserrat-Medium.ttf');
+    src: url('./../fonts/Montserrat-SemiBold.ttf');
 }
 
 @font-face {
     font-family: Poppins;
-    src: url('./../fonts/Poppins-Regular.ttf') format('ttf');
+    src: url('./../fonts/Poppins-Regular.ttf');
 }
 /* Font Import */
 
 /* Common Css */
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: Poppins;
     font-size: 16px;
     font-weight: 400;
     color: #787878;
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
     font-weight: 700;
     text-transform: capitalize;
     color: #191919;
