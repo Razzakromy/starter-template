@@ -53,6 +53,11 @@ a:hover {
     padding: 100px 0;
 }
 
+.c_content{
+    padding-top: 50px;
+    text-align: center;
+}
+
 .c_btn {
     padding: 10px 20px;
     font-size: 15px;
